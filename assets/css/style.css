@@ -554,6 +554,13 @@ h6 {
   line-height: 40px;
   color: #000;
 }
+
+.product-right-area h2 {
+  color: #000;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
 .product-right-area p {
   font-size: 20px;
 }
