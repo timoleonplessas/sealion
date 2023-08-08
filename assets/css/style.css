@@ -546,8 +546,13 @@ h6 {
   height: auto;
 } 
 .product-right-area h1 {
-  font-weight: 800;
+  /*font-weight: 800;
   font-size: 25px;
+  color: #000;*/
+ font-size: 30px;
+  font-weight: 800;
+  line-height: 40px;
+  color: #000;
 }
 .product-right-area p {
   font-size: 20px;
