@@ -1578,6 +1578,7 @@ h6 {
 }
 .about-area p span {
   font-weight: 800;
+  text-align: left;
 }
 .book-content img {
   width: 100%;
