@@ -1777,9 +1777,14 @@ h6 {
 
 .crousel-item-content img {
   width: 150px !important;
-  height: 150px !important;
+  height: auto !important;
   border-radius: 50% !important;
 }
+/*.crousel-item-content img {
+  width: 150px !important;
+  height: 150px !important;
+  border-radius: 50% !important;
+}*/
 .carousel-control-prev, .carousel-control-next {
   width: 40px;
   height: 40px;
