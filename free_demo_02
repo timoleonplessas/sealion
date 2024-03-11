@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Sealion Engineering</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Custom CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D38PJJ7KBT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D38PJJ7KBT');
+</script>
+<!-- end of Google tag (gtag.js) -->
+
+
+  <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '625935642812817');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=625935642812817&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+
+  <meta name="facebook-domain-verification" content="m77e5ldiaarhn3y9vikoxc1xtq7kd6" />
+</head>
+
+<body>
+
+
+
+  <main id="main">
+
+    <!-- ======= Book Now ======= -->
+    <section id="book-now" class="booknow">
+        <div class="logo">
+            <a href="index.html">
+                <img src="assets/img/logo.jpg" alt="">
+            </a>
+        </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="book-page-wrapp">
+
+                  <div class="book-title">
+                    <!--<h4> </h4>-->
+                    <!--<h1>Estimate Added Fuel Consumption due to Hull Fouling Based Only on Observed Hull Condition</h1>-->
+                    <h1>Estimate the Effect of Fouling in Ship Performance Within Seconds just by Looking at a few Underwater Photographs</h1>
+                    <!-- <h4>(Regardless of Experience)</h4> -->
+                    
+                  </div>
+
+                  <div class="book-content">
+
+                    <div class="about-area">
+                      <p> </p>
+                      <p>If you are reading this, you are probably working in the shipping industry and you want a <span>quick and easy methodology</span> that will provide a <span>rough estimation of the effect of hull fouling</span> in ship’s power and fuel consumption.</p>
+                      <img src="assets/img/books/1.png" alt="">
+                      
+                      <!--<div class="slime">-->
+                      <div class="about-area">
+                        <p>Εxisting means for identifying and quantifying the effect of fouling in ship performance are many times <b>less reliable</b> (e.g. noon reports) or <b>require significant effort</b> to extract useful results (e.g. Sensors & Data Analysis) and even then, caution is needed in order to be sure that the calculated increase in power/fuel consumption is a result of <b>fouling or weather effect or error in measurements or sensor malfunction or other</b>.</p>
+                        <!--<img src="assets/img/books/unreliable_sources.JPG" alt="">-->
+                      </div>
+                    </div>
+
+                    
+                    <!--<div class="worng-area">-->
+                    <!--<div class="about-area">-->
+                      <!--<h1><span>Not necessarily!</span></h1>-->
+                      <!--<p><span>Not necessarily.</span></p>-->
+                    <!--</div>-->
+                    
+
+                    <!--<div class="worng-area">-->
+                    <div class="about-area">
+                      <!--<p>And even though the above means can be useful and can provide sufficiently accurate results if they are handled properly, none of them is necessary in order to have a rough estimation of the effect of fouling in ship performance instantly.</p>-->
+                      <p>Wouldn't be useful if you could have a rough estimation of the effect of hull fouling on your vessel’s fuel consumption <span>just by looking at a photo from an underwater inspection</span>? ( <b>without</b> measurements, <b>without</b> sensors, <b>without</b> noon reports, <b>without</b> data analysis)</p>
+                    </div>
+
+                    <div class="present-area">
+                      <h1>This can be achieved with this new method:</h1>
+                      <div class="row">
+
+                        <div class="col-lg-6">
+                          <div class="present-left">
+                            <img src="assets/img/Transparent Background Mockup 2 Shadow JPG.jpg" alt="">
+                          </div>
+                        </div>
+
+                        <div class="col-lg-6">
+                          <div class="present-right">
+                            <h1>“SHIP PERFORMANCE ASSESSMENT BASED ON OBSERVED FOULING"</h1>
+                            <p>The step-by-step guide for estimating the effect of hull fouling in ship performance with nothing but just a few underwater photos!</p>
+                          </div>
+                        </div>
+
+                      </div>
+
+                      <!--<div class="worng-area">-->
+                      <div class="about-area">
+                          <p>It is a simple, compact technical manual that will translate an underwater observation of a hull to a rough estimate of additional power and fuel consumption instantly by utilizing an extensive library of diagrams for a wide range of vessels of different types and sizes (<span>450+ diagrams for most ship types and sizes are included in the book</span>), that allow instant assessment of the observed fouling and its effect in the performance of the ship.</p>
+                          <img src="assets/img/books/from fouling photo to diagram 03.JPG" alt="">
+                      </div>
+
+                    </div>
+
+
+                    
+                    <!-- <hr>
+
+                    <div class="how-is-area">
+                        <h1>Reliable Rough Estimation of Added Fuel Consumption due to Fouling within seconds</h1>
+                        <div class="how-is-content">
+                          <p>The calculations in the book rely exclusively on the observed fouling. If fouling is <b>observed</b>, then there is <b>definitely</b> some increased consumption, and by using this book you can have a <b>reliable rough estimation</b>.</p>
+                          <p>On the other hand, if additional consumption is measured (via noon reports, sensors etc.), you can’t always tell reliably if the observed increase in fuel consumption is caused by fouling.</p>
+                          <img src="assets/img/books/reliable_vs_unreliable_sources.JPG" alt="">
+                        </div>
+                    </div> -->
+
+
+                    <hr>
+
+                    <div class="how-is-area">
+                        <h1>Effective Ship Performance Monitoring Based Only on Observed Hull Condition</h1>
+                        <div class="how-is-content">
+                          <p>This simple methodology allows the monitoring of the performance of your vessel relying only on the observed condition of the hull. The provided KPIs can be estimated after underwater inspections, giving a clearer picture of the performance of the vessel in time.</p>
+                          <img src="assets/img/books/effective_ship_performance_monitoring.JPG" alt="">
+                        </div>
+                    </div>
+
+
+                    <hr>
+
+                    <div class="how-is-area">
+                        <h1>"Why is this book useful?"</h1>
+                        <div class="how-is-content">
+                          <p>The existing guidelines regarding the management of biofouling, lack the overall connection between the <span>visual inspection</span> (e.g. underwater inspection), the <span>performance prediction</span> (e.g. estimation of added Power/Fuel Consumption) and the relevant <span>action</span> (e.g. hull cleaning). MEPC's "Guidelines for the control and management of ship's biofouling to minimize the transfer of invasive aquatic species" offers a simple methodology that links the visual aspect with the required action based on a fouling rating, but doesn't offer much guidelines regarding the expected performance prediction based on the observed biofouling. On the other hand, ISO 19030 focuses on the analysis of high-frequency data in order to estimate the performance of the vessel but doesn’t offer much guidelines on how this performance prediction is connected to the observed fouling. The methodology presented in the book attempts to bridge the gap between these two approaches. It doesn't provide the accuracy of the ISO standard, but it will always provide <span>reliable rough estimations of the performance of a ship within seconds, by utilizing only underwater photos</span> (no other information/data/logs required).</p>
+                          <img src="assets/img/books/MEPC vs ISO vs BOOK GIF.gif" alt="">
+                        </div>
+                    </div>
+                    
+                    <hr>
+                    
+                    <div class="how-is-area">
+                        <h1>"How is this possible?"</h1>
+                        <p>First, let me introduce myself:</p>
+                        <div class="row">
+
+                            <div class="col-lg-6">
+                                <div class="how-is-left">
+                                    <img src="assets/img/books/4.png" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="how-is-right">
+                                    <p>My name is Timoleon Plessas and I am the founder of Sealion Engineering. I have studied Naval Architecture and Marine Engineering at the National Technical University of Athens and I hold a PhD in the field of “Ship Design Optimization”. I have participated with the National Technical University of Athens in EU-funded projects where I developed models and tools for simulation and optimization of various systems of merchant ships with numerous peer-reviewed papers published in journals and conferences. I have also worked in the energy department of a large Greek shipping company with 70+ ships of various types and sizes. There, I participated in the monitoring of vessel’s performance by developing sophisticated tools for handling high-frequency data and arranging underwater hull inspections and hull cleanings.</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="how-is-content">
+
+                            <p>This experience gave me a better understanding on how the observed fouling is linked to the actual performance of the vessel since the effect was measured by the installed sensors.</p>
+
+                            <p>In short, the main idea of this book is simple: <b>The effect of fouling in the performance of a ship can be adequately quantified based on the observed condition on the hull</b>. Although it can’t be quantified down to the last digit, its effect in general can be put within an expected range in terms of power increase just by observing it.</p>
+
+                            <p>So, I studied the available scientific research on the subject and used the most appropriate methods, in order to transform the qualitative and empirical knowledge to a formal methodology. I created a simple and quick solution, that will help anyone to skip the years of experience needed in order to <b>feel confident about how the observed fouling affects the performance of a ship using nothing else other than a few underwater photographs</b>.</p>
+
+                            <p>This methodology can be applied to ships of all types and sizes. 450+ diagrams that predict the effect of fouling have been generated and included in the book in order to make it a stand alone tool for monitoring the performance of a ship when no other information is available other than a few underwater photos.</p>
+
+                          <br>
+                          <img src="assets/img/presenting_at_VPi_Forum_Athens_2024.PNG" alt="">
+                          
+
+                          
+                        </div>
+
+                    </div>
+                    
+                    <hr>
+
+
+                    <div class="how-is-area">
+                        <h1>Frequently Asked Questions</h1>
+                        <div class="how-is-content">
+                          
+                          <h4>Does it take time to do the calculations?</h4>
+                          <p><b>No.</b> The calculations can be done very quickly in order to support and speed up the decision making process when deciding whether to proceed with hull cleaning. You only need the readings from the relevant diagrams (depending on the vessel type and size) and the effect of fouling in ship performance (Power & Fuel Consumption) can be estimated instantly.</p>
+
+                          <h4>Is it complicated?</h4>
+                          <p><b>No. Calculations can be done by hand or by a simple excel file which is provided.</b> (many examples and a case study are included in the book).</p>
+
+                          <!-- <h4>What else is needed except from this book in order to have a rough estimation of the fuel consumption due to fouling?</h4>
+                          <p><b>Nothing. You only need this book and a few recent underwater photos.</b> NO logs, NO noon reports, NO measurements, NO sensors, NO data analysis.</p> -->
+
+                          <h4>Is it 100% accurate?</h4>
+                          <p><b>No. It is a rough estimation</b>. It will never be 100% accurate since all the observations that are involved in the calculations (type of fouling, percentage of coverage etc.) are never 100% accurate or strictly defined. Still, you will always get a reliable estimations since the developed methodology takes into account the underlying principles of ship's resistance and propulsion theory.</p>
+
+                          <!-- <h4>Do I need to be experienced in Ship Performance Monitoring?</h4>
+                          <p><b>No.</b> The aim of this book is to allow anyone (even with <b>zero experience</b>) to have a rough estimate of the effect of fouling just by looking a few photos, feel confident about what to expect and not having to rely on an expert.</p> -->
+
+                          <h4>To whom is this book useful?</h4>
+                          <p><b>To anyone</b> who works in any aspect of the shipping industry and wants to have an estimation of the effect of fouling in fuel consumption (ship owners, operators, charterers, captains, chief engineers, superintended engineers, energy/performance engineers etc.)</p>
+
+                          <h4>Does it work in complex cases where there are different types of fouling, or when for example bottom is clean and verticals are fouled?</h4>
+                          <p><b>Yes.</b> Detailed examples on how to handle complex cases are presented in the book.</p>
+
+                          <!-- <h4>In which types of ships can this methodology be applied?</h4>
+                          <p><b>In most of the common merchant ship types and sizes</b>:
+                           <ul>
+                             <li>Tankers (2,000 to 330,000 t DWT)</li>
+                             <li>Bulk Carriers (1,000 to 330,000 t DWT)</li>
+                             <li>General Cargo Ships (2,000 to 45,000 t DWT)</li>
+                             <li>OBO Carriers (60,000 to 160,000 t DWT)</li>
+                             <li>Containerships (400 to 12,000 TEU)</li>
+                             <li>LNG Carriers (125,000 to 260,000 m3 Capacity)</li>
+                             <li>RORO Ships (500 to 5,000 Lanemeters)</li>
+                             <li>RORO/Passenger Ships (70 to 200 m Length)</li>
+                             <li>Chemical Carriers (5,000 to 50,000 t DWT)</li>
+                             <li>Reefer Ships (2,500 to 18,000 m3 Capacity)</li>
+                          </ul> 
+                          </p> -->
+                          
+
+                          <h4>What can be estimated based on observed fouling by using this book?</h4>
+                          <p>
+                          <ul>
+                             <li>Percentage of Power Increase due to Fouling (%)</li>
+                             <li>Added Power due to Fouling (kW)</li>
+                             <li>Added Fuel Consumption due to Fouling (tons/day)</li>
+                          </ul>
+                        </p>
+
+                          <h4>What about the effect of propeller fouling?</h4>
+                          <p>The book focuses on hull fouling. Regardless, there is a brief chapter with some rough guidelines regarding the effect of propeller fouling in ship performance.</p>
+
+                          <h4>Can the methodology handle engines with different fuels other than Diesel Oil and Heavy Fuel Oil?</h4>
+                          <p><b>Yes.</b> Calculations rely on additional engine power, so as long as specific fuel consumption of the engine (for any type of fuel) is available, the methodology is applicable.</p>
+                          
+                        </div>
+                    </div>
+                    
+                    <hr>
+                    
+                    <div class="carousel">
+
+                       <h1 align="center">Testimonials</h1>
+
+                        <div class="carousel-title">
+                            <p>This simple method has helped people working in the shipping idustry to have a rough estimation of the effect of fouling when no other information is available other than photos from an underwater hull inspection.</p>
+                        </div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                        <!-- Carousel indicators -->
+                                        <!-- <ol class="carousel-indicators">
+                                            <li data-target="#myCarousel"class="active"></li>
+                                            <li data-target="#myCarousel"></li>
+                                            <li data-target="#myCarousel"></li>
+                                        </ol>    -->
+
+                                        <div class="carousel-inner">
+
+                                          
+                                            <!--<div class="carousel-item active">
+                                                <div class="row">
+                                                    <div class="col-lg-3"></div>
+                                                    <div class="col-lg-6">
+                                                        <div class="crousel-item-content">
+                                                            <img src="assets/img/team/team-1.jpg" alt="">
+                                                            <p>I never could have imagined that my family photos would look THIS good, especially taken from my phone! Incredible. I can't stop looking at these gorgeous pictures of my family. And I took them! So awesome.</p>
+                                                            <h5>Tanya Williams</h5>
+                                                            <h6>Seattle, WA</h6>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3"></div>
+                                                </div>
+                                            </div>-->
+
+                                            <div class="carousel-item active">
+                                                <div class="row">
+                                                    <div class="col-lg-3"></div>
+                                                    <div class="col-lg-6">
+                                                        <div class="crousel-item-content">
+                                                            <!-- <img src="assets/img/team/team-2.jpg" alt=""> -->
+                                                            <p>A practical handbook to assess quickly an estimated power increase of vessel based on findings of visual underwater inspection of hull. Good reference to have in order to cross-check results deriving from relevant power increase estimation models using vessel’s operational data, as well.</p>
+                                                            <h5>Michael Saloufas</h5>
+                                                            <h6>Superintendent Engineer</h6>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3"></div>
+                                                </div>
+                                            </div>
+
+                                          <div class="carousel-item">
+                                                <div class="row">
+                                                    <div class="col-lg-3"></div>
+                                                    <div class="col-lg-6">
+                                                        <div class="crousel-item-content">
+                                                            <!-- <img src="assets/img/team/team-2.jpg" alt=""> -->
+                                                            <p>"Prompt and reliable method for deciding whether a hull cleaning will be beneficial in a fuel saving way"</p>
+                                                            <h5>Alkis Ntanis</h5>
+                                                            <h6>Head of Technical</h6>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3"></div>
+                                                </div>
+                                            </div>
+
+                                          <!--<div class="carousel-item">
+                                                <div class="row">
+                                                    <div class="col-lg-3"></div>
+                                                    <div class="col-lg-6">
+                                                        <div class="crousel-item-content">
+                                                            <p>...</p>
+                                                            <h5>Manos Prionas</h5>
+                                                            <h6>Superintended Engineer</h6>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3"></div>
+                                                </div>
+                                            </div> -->
+
+                                          <!--<div class="carousel-item">
+                                                <div class="row">
+                                                    <div class="col-lg-3"></div>
+                                                    <div class="col-lg-6">
+                                                        <div class="crousel-item-content">
+                                                            <p>...</p>
+                                                            <h5>Dionysia Chroni</h5>
+                                                            <h6>Head of Energy Efficiency</h6>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3"></div>
+                                                </div>
+                                            </div>-->
+
+                                            <div class="carousel-item">
+                                                <div class="row">
+                                                    <div class="col-lg-3"></div>
+                                                    <div class="col-lg-6">
+                                                        <div class="crousel-item-content">
+                                                            <!-- <img src="assets/img/team/mara_k.jpg" alt="">v -->
+                                                            <p>An easy to understand scientific book presenting a quick and valid method to estimate ship's additonal power and consumption due to fouling. As a performance engineer, I highly recommend it.</p>
+                                                            <h5>Mara Kefou</h5>
+                                                            <h6>Performance Engineer</h6>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-3"></div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                        <!-- Carousel controls -->
+                                        <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                                            <i class="fa fa-angle-left"></i>
+                                        </a>
+                                        <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                                            <i class="fa fa-angle-right"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+
+                    <div class="list-item">
+                        <h2> After reading this book you will be able to:</h2>
+                        <p> <i class="fa fa-check"></i> 
+                        Identify the 5 main categories of fouling </p>
+                        <p> <i class="fa fa-check"></i> 
+                        Estimate the expected power increase due to observed fouling</p>
+                        <p> <i class="fa fa-check"></i> 
+                        Estimate the expected additional fuel consumption due to fouling</p>
+                        <p> <i class="fa fa-check"></i> 
+                        Predict the expected effect of fouling after X months</p>
+                        <p> <i class="fa fa-check"></i> 
+                        Decide whether to proceed with hull cleaning</p>
+                    </div>
+
+                    <div class="list-item">
+                        <h2>Applicable to most of ship types and sizes: </h2>
+                        <p> <i class="fa fa-check"></i> Tankers (2,000 to 330,000 t DWT)</p>
+                        <p> <i class="fa fa-check"></i> Bulk Carriers (1,000 to 330,000 t DWT)</p>
+                        <p> <i class="fa fa-check"></i> General Cargo Ships (2,000 to 45,000 t DWT)</p>
+                        <p> <i class="fa fa-check"></i> OBO Carriers (60,000 to 160,000 t DWT)</p>
+                        <p> <i class="fa fa-check"></i> Containerships (400 to 12,000 TEU)</p>
+                        <p> <i class="fa fa-check"></i> LNG Carriers (125,000 to 260,000 m3 Capacity)</p>
+                        <p> <i class="fa fa-check"></i> RORO Ships (500 to 5,000 Lanemeters)</p>
+                        <p> <i class="fa fa-check"></i> RORO/Passenger Ships (70 to 200 m Length)</p>
+                        <p> <i class="fa fa-check"></i> Chemical Carriers (5,000 to 50,000 t DWT)</p>
+                        <p> <i class="fa fa-check"></i> Reefer Ships (2,500 to 18,000 m3 Capacity)</p>
+                    </div>
+                    <br><br>
+                    <h5>Here is what you get:</h5>
+
+                    <div class="inside">
+                        <h1>A hardcopy of the book "Ship Performance Assessment Based on Observed Fouling"</h1>
+                        <p>Inside you get:</p>
+                        <div class="row">
+
+                            <div class="col-lg-6">
+                                <div class="inside-left">
+                                    <img src="assets/img/Transparent Background Mockup 2 Shadow JPG.jpg" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="inside-right">
+                                    <p> <i class="fa fa-check"></i> Clear understanding of the different types of fouling that affect the performance of a ship and how to categorize them in 5 easily identifiable categories.</p>
+                                    <p> <i class="fa fa-check"></i> A quick methodology to assess observed hull fouling which can be applied to different types of vessels, regardless of ship type, type of engine or type of fuel.
+                                    </p>
+                                    <p> <i class="fa fa-check"></i> A Complete library of Fouling diagrams (450+ diagrams) for all the major ship types and sizes (Tankers, Bulks, LNGs etc.) for calculating the effect of fouling.</p>
+                                    <p> <i class="fa fa-check"></i> Clear instructions on how to handle complex cases, including combinations of different types of fouling at verticals and bottom.</p>
+                                    <p> <i class="fa fa-check"></i> Case study to familiarize yourself with the application of the methodology.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    <div class="special">
+                        <h5>BONUS</h5>
+                        <h1><span>Get the Tool that Allows the Estimation of the Effect of Fouling in Ship Performance within 1 Minute!</span></h1>
+                        <p>The aim of this book is to have a quick estimation of the effect of fouling within seconds after receiving underwater photos of a hull. This can be easily achieved with this simple tool:</p>
+                        <h2><span>The "1-MINUTE HULL FOULING ASSESSMENT SPREADSHEET”</span></h2>
+                        <div class="row">
+
+                            <div class="col-lg-6">
+                                <!-- <div class="special-left"> -->
+                                <div class="offer-left">
+                                  
+                                    <img src="assets/img/books/spreadsheet_mockup.png" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <!-- <div class="about-area"> -->
+                                <div class="offer-right">
+                                    <p>The calculations that are presented in the book are condensed into one simple spreadsheet that calculates all the necessary parameters instantly with the minimum possible input!</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <hr>
+
+                    <div class="offer">
+                        <h1>The Offer</h1>
+                        <div class="row">
+
+                            <div class="col-lg-6">
+                                <div class="offer-left">
+                                    <img src="assets/img/books/book_spreadsheet_mockup.png" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="offer-right">
+                                    <p> <i class="fa fa-check"></i> Hardcopy of the book "Ship Performance Assessment Based on Observed Fouling" (<strike>97€</strike> Value)</p>
+                                    <p> <i class="fa fa-check"></i> The "1-MINUTE HULL FOULING ASSESSMENT SPREADSHEET” (<strike>100€</strike> Value)</p>
+                                    <p>A TOTAL VALUE OF <strike>197€</strike></p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="offer-price">
+
+                          
+                            
+                            <h3>Today just for <b>47€</b>! (plus shipping&taxes)</h3>
+                          <p> </p>
+                          <!-- <p><b>Buy ONCE</b> and use anywhere, anytime, for any ship, for the rest of your career!</p>-->
+                          <p>(<b>One-time purchase. No monthly fees.</b>)</p>
+
+                            <a href="https://www.lulu.com/shop/timoleon-plessas/ship-performance-assessment-based-on-observed-fouling/paperback/product-45v6k4j.html?page=1&pageSize=4">BUY NOW</a>
+
+
+                        </div>
+
+                    </div>
+                    
+                    <div class="how-is-area">
+                        <p><b>Note</b>: Above link is for purchasing the book. After purchasing the book, the "1-MINUTE HULL FOULING ASSESSMENT SPREADSHEET" can be downloaded from <a href="https://sealionengineering.com/">sealionengineering.com</a></p>
+                      </div>
+                    
+                    <hr>
+
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+    </section>
+
+    <!-- End  Book Now  -->
+
+  </main><!-- End #main -->
+
+  
+
+  <!-- Vendor JS Files -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+</html>
