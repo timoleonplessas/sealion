@@ -384,7 +384,7 @@ h6 {
 }
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   
 }
 .section-title h2{
@@ -492,7 +492,7 @@ h6 {
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
   }
 
   #hero .hero-img img {
@@ -533,7 +533,7 @@ h6 {
 .news-bg {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   padding: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 /*--------------------------------------------------------------
 # Product Services
@@ -583,7 +583,7 @@ h6 {
 --------------------------------------------------------------*/
 
 .project-bg {
-  margin-bottom: 50px;
+  margin-bottom: 15px;
 }
 .projects-right-area h1 {
   font-weight: 800;
