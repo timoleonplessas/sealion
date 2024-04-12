@@ -384,7 +384,7 @@ h6 {
 }
 .section-title {
   text-align: center;
-  padding-bottom: 15px;
+  padding-bottom: 30px;
   
 }
 .section-title h2{
@@ -492,7 +492,7 @@ h6 {
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
   }
 
   #hero .hero-img img {
@@ -533,7 +533,7 @@ h6 {
 .news-bg {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   padding: 20px;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 /*--------------------------------------------------------------
 # Product Services
@@ -583,7 +583,7 @@ h6 {
 --------------------------------------------------------------*/
 
 .project-bg {
-  margin-bottom: 15px;
+  margin-bottom: 50px;
 }
 .projects-right-area h1 {
   font-weight: 800;
@@ -1777,14 +1777,9 @@ h6 {
 
 .crousel-item-content img {
   width: 150px !important;
-  height: auto !important;
-  border-radius: 50% !important;
-}
-/*.crousel-item-content img {
-  width: 150px !important;
   height: 150px !important;
   border-radius: 50% !important;
-}*/
+}
 .carousel-control-prev, .carousel-control-next {
   width: 40px;
   height: 40px;
