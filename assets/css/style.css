@@ -467,7 +467,7 @@ h6 {
 @media (max-width: 991px) {
   #hero {
     height: 100%;
-    text-align: center;
+    text-align: left;
   }
  
   #hero .animated {
