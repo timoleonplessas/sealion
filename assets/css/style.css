@@ -92,7 +92,7 @@ h6 {
   background: #000;
   color: #fff;
 }
- 
+
 .back-to-top.active {
   visibility: visible;
   opacity: 1;
@@ -133,7 +133,7 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -177,7 +177,7 @@ h6 {
 .navbar li:hover>a {
   color: #000;
 }
- 
+
 .navbar .getstarted,
 .navbar .getstarted:focus {
   padding: 8px 20px;
@@ -262,7 +262,7 @@ h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #000;
@@ -272,7 +272,7 @@ h6 {
   line-height: 0;
   transition: 0.5s;
 }
- 
+
 .mobile-nav-toggle.bi-x {
   color: #fff;
 }
@@ -331,13 +331,13 @@ h6 {
 .navbar-mobile li:hover>a {
   color: #000;
 }
-  
+
 .navbar-mobile .getstarted,
 .navbar-mobile .getstarted:focus {
   margin: 15px;
   color: #fff;
 }
- 
+
 .navbar-mobile .dropdown ul {
   position: static;
   display: none;
@@ -382,6 +382,13 @@ h6 {
 .section-p{
   padding: 50px 0px;
 }
+.container .section-title:first-of-type {
+  padding-top: 30px;
+  padding-bottom: 0;
+}
+.container .section-title:first-of-type h1 {
+  margin-bottom: 10px !important;
+}
 .section-title {
   text-align: center;
   padding-bottom: 30px;
@@ -397,6 +404,14 @@ h6 {
   width: 100%;
   background: #f3f5fa;
   padding: 50px 0px;
+}
+.center-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  height: 100%;
+  align-self: center;
 }
 .hero-img img {
   width: 80%;
@@ -418,7 +433,7 @@ h6 {
   margin-bottom: 15px;
   font-size: 20px;
 }
-  
+
 #hero .btn-get-started {
   font-family: "Jost", sans-serif;
   font-weight: 600;
@@ -432,7 +447,7 @@ h6 {
   background: #000;
   display: block;
   text-align: center;
-}  
+}
 
 #hero .btn-get-started:hover {
   background: #000;
@@ -469,7 +484,7 @@ h6 {
     height: 100%;
     text-align: left;
   }
- 
+
   #hero .animated {
     animation: none;
   }
@@ -544,7 +559,7 @@ h6 {
 .product-left-area img {
   width: 80%;
   height: auto;
-} 
+}
 .product-right-area h1 {
   /*font-weight: 800;
   font-size: 25px;
@@ -593,6 +608,7 @@ h6 {
 
 .projects-left-area, .projects-right-area {
   margin-bottom: 30px;
+  width: 100%;
 }
 .projects-left-area img {
   width: 500px;
@@ -1137,6 +1153,21 @@ h6 {
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
 }
 
+.contact .info > div {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.contact .info > div > div, .contact .info > div > a {
+  padding-left: 20px;
+
+}
+
+.align-s-top {
+  align-self: flex-start;
+}
+
 .contact .info i {
   font-size: 20px;
   color: #fff;
@@ -1152,7 +1183,6 @@ h6 {
 }
 
 .contact .info h4 {
-  padding: 0 0 0 60px;
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
@@ -1160,19 +1190,11 @@ h6 {
 }
 
 .contact .info p {
-  padding: 0 0 10px 60px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   font-size: 14px;
   color: #000;
 }
- 
-.contact .info .email p {
-  padding-top: 5px;
-}
 
-.contact .info .social-links {
-  padding-left: 60px;
-}
 
 .contact .info .social-links a {
   font-size: 18px;
@@ -1558,14 +1580,14 @@ h6 {
 #book-now .logo img {
   width: 4%;
   margin-top: 20px;
-} 
+}
 #book-now {
   width: 70%;
   margin: auto;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   padding: 30px;
   background-color: #fff;
-} 
+}
 .book-title {
   text-align: center;
   margin-top: 30px;
@@ -1773,7 +1795,7 @@ h6 {
 .carousel-item img {
   width: 100%;
   height: auto;
-}   
+}
 
 .crousel-item-content img {
   width: 150px !important;
@@ -1805,13 +1827,13 @@ h6 {
   border-radius: 50%;
   border: none;
 }
-.carousel-indicators li {   
+.carousel-indicators li {
   background: #999;
   border-color: transparent;
   box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
 }
-.carousel-indicators li.active {    
-  background: #555;       
+.carousel-indicators li.active {
+  background: #555;
   box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
 }
 .carousel-indicators li.active {
@@ -1850,7 +1872,7 @@ h6 {
 }
 #coming-soon .logo {
   text-align: center;
-} 
+}
 #coming-soon .logo img {
   width: 20%;
   margin-top: 20px;
